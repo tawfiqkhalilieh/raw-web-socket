@@ -9,9 +9,7 @@ Implementing a basic chat app, without using any npm library, which means I'll n
 
 Attached a video of the app and the operating system.
 
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+![til](./video.gif)
 
 
 and yes, dhh bullied me to rice my own arch system
